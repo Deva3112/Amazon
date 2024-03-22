@@ -58,6 +58,11 @@
     border-radius:4px;
     border:none;
 }
+.main-1 a{
+    text-decoration: none;
+    color: rgb(57, 23, 23);
+    font-size: 20px;
+}
 .search select{
     border-top-left-radius:4px;
     border-bottom-left-radius:4px;
@@ -91,7 +96,7 @@ border:none;
 }
 /**box4**/
 span{
-    font-size:0.78rem;
+    font-size:0.79rem;
 }
 .font-col{
     font-size:1rem;
@@ -137,9 +142,7 @@ margin-bottom:75px;
 text-align:center;
 
 }
-.main-1 a{
-    color:blue;
-}
+
 .shop{
     display:flex;
     flex-wrap:wrap;
